@@ -3,7 +3,7 @@
 
 Παράγραφος 1
 
-![](ipod_1g.md){.figure}
+![](nintendo_gameboy.md){.figure}
 
 Παράγραφος 2.1
 
