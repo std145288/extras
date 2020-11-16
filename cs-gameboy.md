@@ -3,7 +3,7 @@
 
 Παράγραφος 
 
-![](nintendo_gameboy.md){.figure}
+![](nintendo-gameboy.md){.figure}
 
 Παράγραφος 
 
@@ -11,7 +11,7 @@
 
 Παράγραφος 
 
-![](nintendo_gameboy.md){.figure}
+![](nintendo-gameboy.md){.figure}
 
 Παράγραφος 
 
