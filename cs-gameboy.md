@@ -10,7 +10,7 @@
 
 Χαρακτηριστική της εργονομίας και της ευχρηστίας του Gameboy είναι η παρακάτω εικόνα από το δίπλωμα ευρεσιτεχνίας των Okada & Kojo και στην οποία φαίνεται πως η θέση των πλήκτρων είναι τέτοια που σε συνδυασμό με το μέγεθος της συσκευής 
 
-<img src="/images/joystick.jpg" alt="Gameboy Patent fig.3"> fig. 1
+<img src="/images/gameboy-patent.jpg" alt="Gameboy Patent fig.3"> fig. 1
 
 
 
