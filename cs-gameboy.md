@@ -12,9 +12,7 @@
 
 <img src="/images/gameboy-patent.jpg" alt="Gameboy Patent fig.3"> 
 
-##### fig 1
-
-
+Figure 1
 
 ### Βιβλιογραφία:
 
